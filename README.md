@@ -6,7 +6,6 @@ This project showcases a wide range of advanced SQL and relational database conc
 
 - `project_10_advanced_databases_and_sql.sql`: A complete SQL script containing all tasks, queries, and object definitions.
 
----
 
 ## 📌 Project Objectives
 
@@ -49,7 +48,8 @@ This project showcases a wide range of advanced SQL and relational database conc
   - Depth-level tracking
   - Pretty-printed indented output for nested items
 
----
+![Advanced_SQL_Project_Shaunak](https://github.com/user-attachments/assets/b57adcfc-68a0-456a-a952-674a9c07dc42)
+
 
 ## 🧰 SQL Concepts Demonstrated
 
