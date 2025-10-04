@@ -6,7 +6,6 @@ This project showcases a wide range of advanced SQL and relational database conc
 
 - `project_10_advanced_databases_and_sql.sql`: A complete SQL script containing all tasks, queries, and object definitions.
 
-
 ## 📌 Project Objectives
 
 ### ✅ Task 1: Customer Order Report
